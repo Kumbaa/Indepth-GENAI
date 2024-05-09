@@ -1,0 +1,52 @@
+Upbound, fondée en 2017, est une entreprise basée à Seattle qui s'est rapidement
+imposée comme un acteur clé dans l'univers du cloud natif grâce à son approche
+innovante de la gestion multi-cloud à travers son projet open source, Crossplane. La
+vision d'Upbound repose sur l'idéologie que les entreprises ne devraient pas être
+enfermées dans un écosystème cloud unique, promouvant ainsi une plus grande
+flexibilité et liberté dans la gestion des ressources cloud.
+Le succès de Crossplane, qui a attiré un investissement significatif de 60 millions de
+dollars en série B mené par Altimeter Capital avec la participation de GV, Intel Capital
+et Telstra Ventures, témoigne de la reconnaissance du problème qu'Upbound cherche
+à résoudre et de l'approbation de sa solution par le marché. La société envisage
+Crossplane non seulement comme un outil, mais comme une communauté open
+source florissante qui converge vers une API cloud universelle, un mouvement soutenu
+par la Cloud Native Computing Foundation (CNCF), garantissant son alignement avec
+les standards de l'industrie du cloud natif.
+Upbound propose également un produit commercial parallèle, Upbound Cloud, qui
+fournit une gestion centralisée de l'infrastructure cloud pour les entreprises, permettant
+la gestion à grande échelle des plans de contrôle et offrant la flexibilité de déploiement
+dans des environnements conformes aux exigences de confidentialité et de conformité
+des données. 
+3.2 FONDATEUR DE UPBOUND : BASSAM TABBARA
+Bassam Tabbara, un pionnier de l'open source, est actuellement le PDG et fondateur
+d'Upbound, une entreprise qu'il a créée en 2017 pour révolutionner la gestion des
+infrastructures cloud à travers le projet open source Crossplane. Sa carrière avant
+Upbound incluait des rôles clés en tant que Directeur Technique chez Quantum et
+Symform, illustrant son expérience profonde dans le développement de technologies
+innovantes et la gestion d'équipes techniques.
+Tabbara a obtenu un Bachelor of Science en Génie Informatique de l'Université de
+Floride en 1995, marquant le début de son parcours dans le secteur technologique.
+Son engagement envers l'open source et le cloud computing s'est manifesté tôt dans
+sa carrière et continue d'influencer ses projets actuels.
+L'initiative Crossplane, sous la direction de Tabbara, vise à permettre une gestion
+unifiée et cloud-native des infrastructures à travers différentes plateformes, en
+s'appuyant sur Kubernetes. Cette approche a attiré l'attention de grandes entreprises
+et a encouragé l'adoption de pratiques GitOps, facilitant ainsi la gestion
+d'infrastructures et de développements d'applications dans des environnements cloud
+diversifiés. Grâce à la vision de Tabbara, Crossplane s'est établi comme une
+alternative viable dans le domaine de l'infrastructure en tant que code, offrant une API
+déclarative et des contrôleurs pour automatiser la provision d'infrastructures de
+manière extensive.
+Tabbara croit fermement que le futur du cloud ne réside pas uniquement dans les
+conteneurs mais dans la capacité à gérer l'infrastructure et les applications de manière
+plus générale, une vision qui distingue Crossplane dans le marché de l'infrastructureas-code. Sous sa direction, Upbound a non seulement réussi à lever des fonds
+significatifs pour soutenir le développement de Crossplane mais a également contribué
+à bâtir une communauté open source diversifiée autour du projet, soulignant son
+engagement pour l'innovation et la collaboration dans l'espace cloud-native.
+Avant de lancer le projet Crossplane, Bassam Tabbara avait déjà fait ses preuves dans
+l'univers de l'open source avec Rook, un projet pionnier qui a transformé la manière
+dont les systèmes de stockage sont gérés dans les environnements cloud-native.
+Rook, un orchestrateur de stockage pour Kubernetes, témoigne de l'expertise de
+Tabbara et de son engagement à simplifier les infrastructures complexes à travers des
+solutions open source.
+
